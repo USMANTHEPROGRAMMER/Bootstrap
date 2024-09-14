@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid orange; */
+}
+ul li a{
+    text-decoration: none;
+}
+nav img{
+    max-width: 70px;
+    max-height: 70px;
+}
+.carousel-inner img{
+    height: 650px;
+    object-fit: cover;
+}
+.container3{
+    width: 1900px;
+}
+#img2{
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+}
+h1{
+    font-family: sans-serif;
+}
+#g{
+    font-size: 20px;
+}
+.form-control2{
+    height: 10rem;
+}
+iframe{
+    width: 100%;
+}
+.container-fluid.bg-secondary {
+    margin-bottom: -20px;
+}
+@media(max-width: 767px) {
+    .card1, .card2, .card3 {
+        margin: auto;
+    }
+}
+/* This is a basic website of bootstrap and it is my 1st website of making with bootstrap */
